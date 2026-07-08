@@ -1,0 +1,10 @@
+# Dependências do Node (Pastas pesadas de terceiros)
+node_modules/
+
+# Arquivos de Configuração Local e Senhas (Segurança)
+.env
+.env.local
+
+# Arquivos do Sistema Operacional (Lixo do Windows/Mac)
+Thumbs.db
+.DS_Store
