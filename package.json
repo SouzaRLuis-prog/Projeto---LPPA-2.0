@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/SouzaRLuis-prog/Projeto---LPPA-2.0#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^2.110.1",
     "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
     "express": "^4.19.2"
   },
   "devDependencies": {
